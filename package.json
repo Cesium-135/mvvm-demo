@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jest-environment-jsdom": "^28.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

@@ -40,7 +40,7 @@ fork 本仓库提交你的代码即可
 
 ```bash
 mvvm-master
-    │  mvvm.html            # 示例页面，基于我们实现的mvvm框架
+    │  index.html            # 示例页面，基于我们实现的mvvm框架
     │  README_CN.md         # 本说明文档
     │
     ├─.idea
